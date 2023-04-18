@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=tK9Oc6AEnR4
 
 https://raw.githubusercontent.com/RodrigoMvs123/Bash-Scripting-Tutorial-for-Beginners/master/README.md
 
+https://github.com/RodrigoMvs123/Bash-Scripting-Tutorial-for-Beginners/blame/master/README.md
+
 What will you need?
 01 WSL - We will use WSL on windows (Ubuntu)
 02 Real Linux Distro - True linux distro encouraged ! Ex: Ubuntu LTS 
